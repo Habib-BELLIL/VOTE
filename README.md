@@ -1,5 +1,5 @@
 
-# 🗳 VOTE - Contrat Intelligent pour un Système de Vote
+#  VOTE - Contrat Intelligent pour un Système de Vote
 
 Une application de vote basée sur un **smart contract Solidity** et une **DApp React** utilisant Web3.
 
